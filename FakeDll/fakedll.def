@@ -1,0 +1,6 @@
+LIBRARY fakedll
+
+EXPORTS
+DllGetClassObject PRIVATE
+DllInstall PRIVATE
+DllRegisterServer PRIVATE
